@@ -1,0 +1,2 @@
+Prefix plugins/SampleExtract/example
+Plugin SampleExtract inputfile parameters.txt outputfile sample_list.txt
